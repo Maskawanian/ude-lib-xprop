@@ -1,0 +1,1 @@
+A LD\_PRELOAD library for linux that adds some missing WM\_SPEC atoms to the windows of applications it is loaded into.
